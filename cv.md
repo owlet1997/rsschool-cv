@@ -54,3 +54,4 @@ My specialty is a applied informatics
 I had a lot of practice like learning English in school, then in college and university.
 I've a confident B1 level and try to improve my skill by learning it by myself, also in university
 and I had learning English for 6 months on special courses "Time to Speak".
+Also there was a English dictation from Kazan university in September in my univercity , and i won so yesterday I got a diploma
