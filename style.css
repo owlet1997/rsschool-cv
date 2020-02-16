@@ -1,0 +1,65 @@
+header{
+padding: 10px;
+}
+
+img{
+width:100px;
+height:100px;
+padding: 10px;
+}
+
+body {
+width: 1024px;
+font-family: "Georgia", sans-serif;
+background-color: lavender;
+}
+
+pre {
+background-color: lightblue;
+padding: 10px;
+}
+
+li {
+padding: 10px;
+}
+
+li .list {
+padding: 15px;
+font-style: bold;
+color: white;
+background-color: purple;
+list-style-type: none;
+}
+
+li:hover .list{
+padding: 15px;
+font-style: bold;
+color: white;
+background-color: violet;
+}
+a li{
+padding: 10px;
+list-style-type: square;
+}
+
+.skills {
+padding:10px;
+color: darkcyan;
+list-style-type: square;
+}
+
+a:link {
+color: black;
+}
+
+a:visited{
+color:blue;
+}
+
+.education, .experience{
+padding:10px;
+color: darkcyan;
+list-style-type: square;
+}
+
+
